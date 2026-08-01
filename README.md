@@ -2,6 +2,6 @@ These scripts are from a reverse engineering effort to extract game content from
 
 They can grab assets, textures, animations, and terrain data from the files in the iso
 Supported formats:
-.BPK  terrain/general world geometry
-.ms2  objects and animations
-.tex  textures
+.BPK for terrain/general world geometry |
+.ms2 for objects and animations |
+.tex for textures
